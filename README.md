@@ -1,4 +1,4 @@
-# Science Module Firmware
+# Nucleo Template
 
 By: **York University Rover Team (YURS)** — Lassonde School of Engineering
 
